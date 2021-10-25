@@ -1,1 +1,1 @@
-# V3C37-Class-Template
+# C37-SpeedRacer_TeacherActivity
